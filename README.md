@@ -1,5 +1,4 @@
 # Bash-port-scanner
-# Port Scanner Bash Script
 
 A straightforward Bash script for scanning ports on a specified host. This lightweight tool is ideal for basic network diagnostics and security assessments.
 
